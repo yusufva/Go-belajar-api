@@ -1,3 +1,11 @@
+/*
+
+Nama : Yusuf Valent Adyatomo
+Kelas : Golang-03
+ID Peserta : 1955617840-1275
+
+*/
+
 package main
 
 import (
